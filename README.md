@@ -1,2 +1,0 @@
-# reactmodal
-Created with CodeSandbox
